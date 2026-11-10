@@ -6,24 +6,24 @@ KUDY is a modern, responsive restaurant website designed to provide customers wi
 
 ## ✨ Features
 
-🏠 Modern Homepage — Attractive landing page introducing KUDY and its restaurant experience.
-🍔 Interactive Menu — Browse available meals and explore different food options.
-🛒 Shopping Cart — Add food items to the cart, increase/decrease quantities, remove items, and view the total price.
-💾 Cart Persistence — Cart information is maintained using browser localStorage.
-📱 Responsive Design — Optimized for desktop, tablet, and mobile devices.
-📋 Checkout Page — Customers can review their selected items before placing an order.
-💰 Order Summary — Displays selected products, quantities, and total cost.
-🔢 Order Code Concept — Designed to support unique order identification for future order management.
-🎨 Clean UI/UX — Focused on usability, accessibility, visual hierarchy, and smooth interactions.
-⚡ Frontend-Based — Built with lightweight web technologies without requiring a backend at the current stage.
+- 🏠 Modern Homepage — Attractive landing page introducing KUDY and its restaurant experience.
+- 🍔 Interactive Menu — Browse available meals and explore different food options.
+- 🛒 Shopping Cart — Add food items to the cart, increase/decrease quantities, remove items, and view the total price.
+- 💾 Cart Persistence — Cart information is maintained using browser localStorage.
+- 📱 Responsive Design — Optimized for desktop, tablet, and mobile devices.
+- 📋 Checkout Page — Customers can review their selected items before placing an order.
+- 💰 Order Summary — Displays selected products, quantities, and total cost.
+- 🔢 Order Code Concept — Designed to support unique order identification for future order management.
+- 🎨 Clean UI/UX — Focused on usability, accessibility, visual hierarchy, and smooth interactions.
+- ⚡ Frontend-Based — Built with lightweight web technologies without requiring a backend at the current stage.
 
 ## 🛠️ Technologies Used
 
-🌐 HTML5 — Website structure and semantic content
-🎨 CSS3 — Styling, layouts, animations, and responsive design
-⚡ JavaScript — Cart functionality, interactions, calculations, and checkout logic
-💾 LocalStorage — Client-side cart persistence
-⭐ Font Awesome — Icons and interface elements
+- 🌐 HTML5 — Website structure and semantic content
+- 🎨 CSS3 — Styling, layouts, animations, and responsive design
+- ⚡ JavaScript — Cart functionality, interactions, calculations, and checkout logic
+- 💾 LocalStorage — Client-side cart persistence
+- ⭐ Font Awesome — Icons and interface elements
 
 ## 🛒 Cart & Ordering Experience
 
@@ -105,26 +105,26 @@ KUDY was built with the goal of creating a restaurant website that feels more li
 
 **The project focuses on:**
 
-🎨 Modern visual design
-🧭 Easy navigation
-📱 Mobile-first thinking
-🛒 Practical cart functionality
-⚡ Interactive frontend behavior
-🧑‍🍳 A foundation for future restaurant management features
+- 🎨 Modern visual design
+- 🧭 Easy navigation
+- 📱 Mobile-first thinking
+- 🛒 Practical cart functionality
+- ⚡ Interactive frontend behavior
+- 🧑‍🍳 A foundation for future restaurant management features
 
 ## 🚀 Future Plans
 The current version is frontend-based, but KUDY is designed with future expansion in mind.
 
-🔮 Future Planned Features
-🗄️ Backend & Database — Store customer orders securely.
-👨‍💼 Owner Dashboard — Allow restaurant owners to view and manage incoming orders.
-🔢 Unique Order Codes — Generate unique codes for every order.
-📊 Order Management — Track orders from Pending → Preparing → Ready → Completed.
-👤 Customer Information — Store customer name, phone number, delivery details, and order notes.
-📍 Delivery Management — Support delivery locations and order fulfillment.
-🔐 Authentication — Secure owner/admin access.
-💳 Online Payments — Support digital payment methods.
-🔔 Order Notifications — Notify customers when their order status changes.
+- 🔮 Future Planned Features
+- 🗄️ Backend & Database — Store customer orders securely.
+- 👨‍💼 Owner Dashboard — Allow restaurant owners to view and manage incoming orders.
+- 🔢 Unique Order Codes — Generate unique codes for every order.
+- 📊 Order Management — Track orders from Pending → Preparing → Ready → Completed.
+- 👤 Customer Information — Store customer name, phone number, delivery details, and order notes.
+- 📍 Delivery Management — Support delivery locations and order fulfillment.
+- 🔐 Authentication — Secure owner/admin access.
+- 💳 Online Payments — Support digital payment methods.
+- 🔔 Order Notifications — Notify customers when their order status changes.
 
 Note: These features are planned for future versions and are not part of the current frontend implementation.
 
